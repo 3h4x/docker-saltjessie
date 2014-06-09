@@ -2,7 +2,7 @@
 * * * 
 
 #### Usage
-docker run -d e1337h4xx/saltwheezy
+docker run -d e1337h4xx/saltjessie
 
 #### Info
 Salt-minion will try to reach docker bridge 172.17.0.1
